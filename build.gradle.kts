@@ -10,7 +10,8 @@ javafx {
     modules(
         "javafx.base",
         "javafx.graphics",
-        "javafx.controls"
+        "javafx.controls",
+        "javafx.fxml"
     )
 }
 

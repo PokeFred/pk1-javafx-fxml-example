@@ -1,0 +1,14 @@
+HBox {
+    -fx-alignment: center;
+    -fx-padding: 20 5 20 5;
+}
+
+FlowPane {
+    -fx-alignment: center;
+    -fx-padding: 20;
+}
+
+Label {
+    -fx-font-size: 24;
+    -fx-text-fill: blue;
+}
